@@ -1,1 +1,6 @@
-hello, Iam property file for your Project
+hello, Iam property file for your Project.
+
+Added next property, thanks and rechecked it. good it works.wq
+ 
+
+
